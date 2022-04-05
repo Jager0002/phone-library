@@ -1,5 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import { CustomLink } from "../CustomLink/CustomLink";
+
 import "./Header.css";
 
 const Header = () => {
@@ -12,10 +14,10 @@ const Header = () => {
           </Link>
         </div>
         <div className="flex gap-x-4">
-          <Link to="/">Home</Link>
-          <Link to="/DashBoard">DashBoard</Link>
-          <Link to="/Reviews">Reviews</Link>
-          <Link to="/Blog">Blog</Link>
+          <CustomLink to="/">Home</CustomLink>
+          <CustomLink to="/DashBoard">DashBoard</CustomLink>
+          <CustomLink to="/Reviews">Reviews</CustomLink>
+          <CustomLink to="/Blog">Blog</CustomLink>
         </div>
       </div>
     </div>
