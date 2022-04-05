@@ -1,0 +1,50 @@
+[
+  {
+    "id": "624c1f2ee1a9454babf08581",
+    "name": "Dominguez Frank",
+    "details": "In my time with the 14-inch MacBook Pro and its M1 Pro chip, I didn't encounter a single instance of slowdown, even when editing photos with Lightroom and Photoshop CC, while also cutting video in Premiere CC when connected to a 4K HDR external monitor. In fact, the laptop's fans only turned on while exporting a 4K video file.",
+    "ratings": 4,
+    "title": "Feature a new High Power Mode",
+    "image": "https://randomuser.me/api/portraits/women/39.jpg"
+  },
+  {
+    "id": "624c1f2ee7520bd8db4fb248",
+    "name": "Janell Carson",
+    "details": "I like that Apple got rid of the Touch Bar screen up top, which I didn't really find useful on earlier MacBook Pro models, and instead replaced it with full-sized function keys that are easy to tap to adjust the volume, screen brightness and more.",
+    "ratings": 4.5,
+    "title": "Notch, Keyboard",
+    "image": "https://randomuser.me/api/portraits/men/69.jpg"
+  },
+  {
+    "id": "624c1f2ebe11131a2ac370ed",
+    "name": "Grace Ball",
+    "details": "It's as if Apple designers decided to go through all the feedback they've gotten for years and cherry pick everyone's top handful of wishlist requests (with apologies to whoever wanted mini-DisplayPort or DVI to return). […] HDMI is something people have been asking to get back. It's great to be future-forward, but HDMI remains immensely useful, even if it's transitioning into being more of a legacy port. That's also why we had laptops with VGA ports for so many years after they should have vanished. People have older or legacy devices, like printers, projectors, displays, etc., and they want to be able to plug into those immediately, with a cable common enough that you might luck out and find one buried in the back of a desk drawer.",
+    "ratings": 5,
+    "title": "MacBook Pro models",
+    "image": "https://randomuser.me/api/portraits/men/18.jpg"
+  },
+  {
+    "id": "624c1f2e825aa6d7a1ade8da",
+    "name": "Peters Roy",
+    "details": "The new Pro displays have also been upgraded with the iPad Pro's ProMotion feature, which is so good that it's now upsetting to use a laptop without it. ProMotion, which is turned on by default, makes it so the Pro can adjust its refresh rate between 10Hz and 120Hz, depending on what you're doing. You can turn off ProMotion and use the Pro at a fixed refresh rate (47.95Hz, 48Hz, 50Hz, 59.94Hz, or 60Hz) if you want to, but I tried using it at 60Hz and found the difference too glaring after almost a week at 120Hz. It really is so much smoother with ProMotion turned on.",
+    "ratings": 4.5,
+    "title": "Added Ports: HDMI, SD Card Slot, and MagSafe",
+    "image": "https://randomuser.me/api/portraits/women/27.jpg"
+  },
+  {
+    "id": "624c1f2e395c1148f3682e2f",
+    "name": "Sandra Bender",
+    "details": "[T]he efficiency of the M1 chip's ARM design leads to great battery performance. The 14-inch MacBook Pro lasted 12 hours and 35 minutes in our benchmark, while the 16-inch went for 16 hours and 34 minutes. That’s over five hours longer than the last Intel model.",
+    "ratings": 4,
+    "title": "Displays: Mini-LED and ProMotion",
+    "image": "https://randomuser.me/api/portraits/women/77.jpg"
+  },
+  {
+    "id": "624c1f2e6e7c59d3df4289a3",
+    "name": "Wilson Berger",
+    "details": "And yes, the display has a notch, which we know will be polarizing, but I very quickly stopped noticing it, just like everyone stops seeing the iPhone notch. We'll see how I feel after another few days with this thing.",
+    "ratings": 5,
+    "title": "Battery Life",
+    "image": "https://randomuser.me/api/portraits/men/64.jpg"
+  }
+]
