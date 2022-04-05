@@ -6,7 +6,7 @@ import "./Header.css";
 
 const Header = () => {
   return (
-    <div className="bg-zinc-200">
+    <div className="bg-zinc-200 sticky top-0">
       <div className="items-center w-11/12 mx-auto h-20 font-thin flex justify-between">
         <div>
           <Link to="/">
